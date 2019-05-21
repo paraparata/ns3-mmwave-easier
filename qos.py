@@ -1,4 +1,4 @@
-#%%
+# by: @paraparata
 import pandas as pd
 import sys, getopt
 # Fungsi
